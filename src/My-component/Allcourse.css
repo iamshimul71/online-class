@@ -1,0 +1,30 @@
+.course{
+    display: flex;
+    border-bottom:1px solid lightgray;
+    margin-bottom:15px;
+    padding-bottom: 15px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px lightgray;
+    
+}
+
+.course-img{
+    width:60%;
+    padding: 10px;
+   
+}
+.course-img img{
+    width: 50%;
+    border-radius: 5px;
+}
+.course-name h2{
+    color: lightseagreen;
+}
+.main-btn{
+    background-color:rgb(255, 0, 85);
+    color: #fff;
+    padding:10px;
+    border:1px solid rgb(255, 0, 85);
+    border-radius: 5px;
+}

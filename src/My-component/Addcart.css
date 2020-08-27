@@ -1,0 +1,9 @@
+.cart{
+    background-color:orange;
+    width: 355;
+    margin:0 auto;
+    margin-left: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
